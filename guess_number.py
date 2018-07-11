@@ -55,6 +55,7 @@ else:
     print()
     print("GAME OVER.")
     print("The computer guessed: %d" %c)
+    print("You have run out of guesses.")
     print("The computer defeated you.")
     print("Run script to play again.")
     print()
