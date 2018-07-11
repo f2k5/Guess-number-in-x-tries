@@ -1,6 +1,7 @@
 import random 
 
 c = random.randint(1,100)
+
 print()
 print('''The computer is thinking of a number
 between 1 and 100.''')
